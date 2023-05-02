@@ -1,0 +1,28 @@
+h1{
+    color: antiquewhite;
+    background-color:brown;   
+}
+
+.heading{
+    color: darksalmon;
+    background-color: rgb(88, 8, 8);
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+ 
+th {
+    background-color: lightpink;
+    border: 1px solid black;
+}
+
+td {
+    background-color: papayawhip;
+    border: 1px solid black;
+}
+
+video{
+    width: 25%;
+}
